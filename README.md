@@ -15,7 +15,7 @@ Welcome to the Learning Go repository! This repo contains example code and proje
 
 ## Contributing
 
-We welcome contributions! Please fork the repository and create a pull request with your changes. Make sure to follow the coding style and conventions used in the repo.
+I welcome contributions! Please fork the repository and create a pull request with your changes. Make sure to follow the coding style and conventions used in the repo.
 
 1. **Fork the repo**.
 2. **Create your branch**:
